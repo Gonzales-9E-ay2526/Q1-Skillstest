@@ -1,0 +1,75 @@
+.container{
+	width: 47%;
+	border: 1px solid gray;
+	padding: 50px;
+	box-shadow: 0px 6px 28px -5px rgba(0,0,0,0.44);
+	margin: 10px auto;
+	display: flex;
+	border: 4px solid #000000;
+	border-radius: 8px 8px 8px 8px;
+	background-color: white;
+}
+
+img{
+	margin:auto;
+	display: flex;
+	width: 250px;
+	padding: 10px;
+}
+
+fieldset{
+	width:250%;
+}
+
+select{
+	width: 100%;
+	padding: 15px;
+}
+
+input[type="text"], [type="Fullname"]{
+	width: 95%;
+	padding:15px;
+}
+
+body{
+	background-image: url("Robotics.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+textarea{
+	width: 95%;
+	padding: 15px;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+a:link{
+	color: lightblue;
+}
+
+a:visited{
+	color: orangered;
+}
+
+input[type="Submit"]{
+	width: 260%;
+	padding: 10px;
+	background-color: dodgerblue;
+	color: white;
+	border-radius: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
